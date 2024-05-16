@@ -77,18 +77,18 @@ Creating a virtual environment is a crucial step as it helps in managing depende
 Run the following command in your terminal to install Qiskit and its dependencies:
 **Qiskit:** The main library that includes the core quantum circuit functionality.
 ```bash
-pip install qiskit
+pip install qiskit==0.39.0
 ```
 **qiskit-ibmq-provider:** This package allows you to connect to IBM Quantum computers and simulators.
 
 ```bash
-pip install qiskit-ibmq-provider qiskit-aer
+pip install qiskit-ibmq-provider=0.19.2
 ```
 
 **qiskit-aer**: The package that provides high-performance simulators with noise modeling capabilities.
 
 ```bash
-pip install qiskit-aer
+pip install qiskit-aer==0.11.0
 ```
 
 ### Configure IBM Quantum Account
