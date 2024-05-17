@@ -34,7 +34,7 @@ The Quantum Entanglement and Decoherence Simulator is designed to explore quantu
 - **Noise Model:** Employs depolarizing noise to simulate environmental interference, introducing an error probability of 0.02 per gate operation.
 
 ### Computational Backends
-1. **Aer Simulator:** Tests the circuit in an ideal, noise-free environment to establish baseline behaviors.
+1. **Qiskit Aer Simulator(QASM):** Tests the circuit in an ideal, noise-free environment to establish baseline behaviors.
 2. **IBM Quantum Computer (e.g., ibmq_manila):** Provides a real-world context where actual device characteristics and noise influence the outcomes.
 
 ### Visualization Techniques
