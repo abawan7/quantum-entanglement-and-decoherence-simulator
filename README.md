@@ -41,6 +41,9 @@ The Quantum Entanglement and Decoherence Simulator is designed to explore quantu
 - **State Vector Visualization:** Allows observing the probability amplitudes for each state of the system, useful in analyzing pre and post-noise effects.
 - **Quantum Sphere Visualization:** Offers a geometric representation of qubit states, helping visualize the impact of gates and noise.
 
+### Hand-Drawn Circuit Diagram
+![Hand-Drawn Circuit Diagram](https://github.com/abawan7/quantum-entanglement-and-decoherence-simulator/blob/main/Circuit.png)
+
 ## Installation Instructions
 
 ### Prerequisites
