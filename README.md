@@ -41,10 +41,8 @@ The Quantum Entanglement and Decoherence Simulator is designed to explore quantu
 - **State Vector Visualization:** Allows observing the probability amplitudes for each state of the system, useful in analyzing pre and post-noise effects.
 - **Quantum Sphere Visualization:** Offers a geometric representation of qubit states, helping visualize the impact of gates and noise.
 
-### Hand-Drawn Circuit Diagram
-![Hand-Drawn Circuit Diagram](https://github.com/abawan7/quantum-entanglement-and-decoherence-simulator/blob/main/Circuit.png)
-
-## Installation Instructions
+## Hand-Drawn Circuit Diagram
+<img src="https://github.com/abawan7/quantum-entanglement-and-decoherence-simulator/blob/main/Circuit.png" alt="Hand-Drawn Circuit Diagram" width="320"/>
 
 ### Prerequisites
 Before you start, ensure that you have Anaconda installed on your system. Anaconda simplifies package management and deployment and helps manage different project environments. If you do not have Anaconda installed, follow the steps below to download and install it.
